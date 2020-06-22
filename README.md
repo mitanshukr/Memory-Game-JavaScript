@@ -8,9 +8,9 @@ _Play this game here: https://memorygame-mk.netlify.com/_
 ##### Here is a screenshot of the game:
 ![Screenshot](Screenshot.png)
 
+---
 Suggestions for improvement are always welcome.
 
----
 Reference:
 [freecodecamp.org](https://www.freecodecamp.org/)
 
