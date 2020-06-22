@@ -1,5 +1,5 @@
 # Memory Game - JavaScript
-#### Memory Game build with JavaScript.
+#### Memory Game built with JavaScript.
 
 This is my first major project on JavaScript Programming. The major role of JavaScript in this project is of DOM manipulation.
 
