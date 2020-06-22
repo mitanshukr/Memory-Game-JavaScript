@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(105, 105, 105);
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+}
+
+#gameConsole{
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(236, 234, 234);
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.cardHidden{
+    display:none;
+}
+
+.cardShow{
+    display:block;
+}
+
+.freezeItem{
+    pointer-events:none;
+}
