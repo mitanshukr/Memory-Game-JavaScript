@@ -1,9 +1,9 @@
 # Memory Game - JavaScript
 #### Memory Game built with JavaScript.
 
-This is my first major project on JavaScript Programming. The major role of JavaScript in this project is of DOM manipulation.
+This is my first project on **Vanilla JavaScript** Programming. The major role of JavaScript in this project is DOM manipulation.
 
-_Play this game here: https://memorygame-mk.netlify.com/_
+_Play this game here: https://memorygame-mk.netlify.com/
 
 ##### Here is a screenshot of the game:
 ![Screenshot](Screenshot.png)
